@@ -1,0 +1,55 @@
+body{
+	background-color: black;
+	background-size: 1100px, 1200px;
+	background-position: center;
+	font-family: sans-serif;
+}
+ 
+.box{
+	text-align: center;
+	color: white;
+	width: 335px;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #black;
+	background-color: grey;
+}
+
+.box2{
+	text-align: center;
+	color: white;
+	width: 335px;
+	margin: 100px auto;
+	padding: 10px 20px 10px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #black;
+	background-color: grey;
+}
+ 
+.tombol{
+	text-align: center;
+	background: light-grey;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #000000;
+	font-size: 15pt;
+	border-bottom:4px solid dark-grey;
+}
+ 
+.brand{
+	color: #eee;
+	font-size: 11pt;
+	float: right;
+	text-decoration: none;
+	margin: 12px;
+}
+ 
+.judul{
+	text-align: center;
+	color: #000000;
+	font-weight: normal;
+}
